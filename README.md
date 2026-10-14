@@ -22,17 +22,17 @@
   <tr bgcolor="transparent" style="background-color:transparent">
     <th align="center">Version</th>
     <th align="center">Channel</th>
-    <th align="center">Updated (UTC)</th>
+    <th align="center">Updated (UTC+8)</th>
     <th align="center">steamclient64.dll</th>
     <th align="center">SteamUI.dll</th>
   </tr>
-  <tr bgcolor="transparent" style="background-color:transparent"><td align="center">1791856936</td><td align="center">Beta</td><td align="center">2026-10-13</td><td align="center">3f2de2f8b40f</td><td align="center">c4a1eae64041</td></tr>
+  <tr bgcolor="transparent" style="background-color:transparent"><td align="center">1791918634</td><td align="center">Beta</td><td align="center">2026-10-14</td><td align="center">e9045710ec7e</td><td align="center">1b9457943205</td></tr>
+  <tr bgcolor="transparent" style="background-color:transparent"><td align="center">1791918634</td><td align="center">Stable</td><td align="center">2026-10-14</td><td align="center">e9045710ec7e</td><td align="center">1b9457943205</td></tr>
   <tr bgcolor="transparent" style="background-color:transparent"><td align="center">1788652215</td><td align="center" rowspan="2" valign="middle">Stable</td><td align="center">2026-09-06</td><td align="center" rowspan="2" valign="middle">caba4826aa35</td><td align="center" rowspan="2" valign="middle">cb387adefbba</td></tr>
   <tr bgcolor="transparent" style="background-color:transparent"><td align="center">1788400362</td><td align="center">2026-09-03</td></tr>
   <tr bgcolor="transparent" style="background-color:transparent"><td align="center">1788291500</td><td align="center">Stable</td><td align="center">2026-09-02</td><td align="center">2a5c1b50bbc0</td><td align="center">d856003fac46</td></tr>
   <tr bgcolor="transparent" style="background-color:transparent"><td align="center">1785799196</td><td align="center" rowspan="2" valign="middle">Stable</td><td align="center">2026-08-04</td><td align="center" rowspan="2" valign="middle">86112382982f</td><td align="center" rowspan="2" valign="middle">af6ca9193dd6</td></tr>
-  <tr bgcolor="transparent" style="background-color:transparent"><td align="center">1785787573</td><td align="center">2026-08-03</td></tr>
+  <tr bgcolor="transparent" style="background-color:transparent"><td align="center">1785787573</td><td align="center">2026-08-04</td></tr>
   <tr bgcolor="transparent" style="background-color:transparent"><td align="center">1785187029</td><td align="center">Stable</td><td align="center">2026-07-28</td><td align="center">52ff7a513f8d</td><td align="center">55a42fc091ae</td></tr>
-  <tr bgcolor="transparent" style="background-color:transparent"><td align="center">1784778118</td><td align="center">Stable</td><td align="center">2026-07-23</td><td align="center">61dd80e84a1c</td><td align="center">2a59e23adb9b</td></tr>
   </tbody>
 </table>
