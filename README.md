@@ -26,7 +26,7 @@
     <th align="center">steamclient64.dll</th>
     <th align="center">SteamUI.dll</th>
   </tr>
-  <tr bgcolor="transparent" style="background-color:transparent"><td align="center">1791918634</td><td align="center">Beta</td><td align="center">2026-10-14</td><td align="center">e9045710ec7e</td><td align="center">1b9457943205</td></tr>
+  <tr bgcolor="transparent" style="background-color:transparent"><td align="center">1792110651</td><td align="center">Beta</td><td align="center">2026-10-16</td><td align="center">ddb1d2787a77</td><td align="center">5cfa90189e77</td></tr>
   <tr bgcolor="transparent" style="background-color:transparent"><td align="center">1791918634</td><td align="center">Stable</td><td align="center">2026-10-14</td><td align="center">e9045710ec7e</td><td align="center">1b9457943205</td></tr>
   <tr bgcolor="transparent" style="background-color:transparent"><td align="center">1788652215</td><td align="center" rowspan="2" valign="middle">Stable</td><td align="center">2026-09-06</td><td align="center" rowspan="2" valign="middle">caba4826aa35</td><td align="center" rowspan="2" valign="middle">cb387adefbba</td></tr>
   <tr bgcolor="transparent" style="background-color:transparent"><td align="center">1788400362</td><td align="center">2026-09-03</td></tr>
