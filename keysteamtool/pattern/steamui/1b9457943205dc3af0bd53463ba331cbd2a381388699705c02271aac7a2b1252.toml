@@ -3,6 +3,11 @@ name = "BuildCompleteAppOverviewChange"
 rva = "0x611BD0"
 sig = "4C 89 44 24 18 48 89 54 24 10 48 89 4C 24 08 55 53 56 57 41 54 41 55 41 56 41 57 48 8D 6C 24 E1"
 
+[0x04E90620]
+name = "BuildDlcList"
+rva = "0x60F960"
+sig = "48 8B C4 44 88 48 20 4C 89 40 18 48 89 50 10 41 54 48 81 EC 90 00 00 00 48 89 58 F0 48 89 68 E8 49 8B E8 48 89 70 E0 41 0F B6 F1 48 89 78 D8"
+
 [0x221F0661]
 name = "CSteamUIAppControllerRunFrame"
 rva = "0x6288B0"
@@ -27,6 +32,11 @@ sig = "40 53 48 83 EC 30 48 8B 05 ?? ?? ?? ?? BB 05 00 00 00"
 name = "MarkAppChange"
 rva = "0x6A9A80"
 sig = "48 83 EC 78 48 8B 05 ?? ?? ?? ?? 48 89 74 24 70"
+
+[0x55B11AE1]
+name = "NotifyAchievementChanged"
+rva = "0x61AA30"
+sig = "40 56 48 83 EC 70 48 89 9C 24 88 00 00 00 48 8B F2 4C 89 74 24 68 4C 89 7C 24 60 4C 8B F9 48 81 C1 ?? ?? ?? ?? E8 ?? ?? ?? ?? 84 C0 0F 84"
 
 [0x153479F0]
 name = "RepeatedFieldUint32_Add"
