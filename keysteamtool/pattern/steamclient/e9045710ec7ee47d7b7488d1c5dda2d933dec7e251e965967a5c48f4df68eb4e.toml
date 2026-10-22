@@ -74,6 +74,11 @@ name = "GetOrAddAppData"
 rva = "0x4CA180"
 sig = "48 83 EC 58 48 8B 05 ?? ?? ?? ?? 48 89 5C 24 68 48 89 6C 24 70"
 
+[0xA3A87E35]
+name = "GetOwnedDlcList"
+rva = "0x9E7010"
+sig = "40 57 41 55 41 56 48 83 EC 40 48 8D B9 ?? ?? 00 00 4D 8B F0 8B 47 18"
+
 [0x3B3A0F9D]
 name = "GetPackageInfo"
 rva = "0x4CA420"

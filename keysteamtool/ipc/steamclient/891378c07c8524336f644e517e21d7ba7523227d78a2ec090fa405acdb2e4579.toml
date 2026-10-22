@@ -1,67 +1,67 @@
 [IClientRemoteStorage]
 interface_id = 13
-vtable_rva = "0x135D5D8"
+vtable_rva = "0x135D770"
 
 [IClientRemoteStorage.IsCloudEnabledForApp]
 method_index = 9
 funcHash = "0x88A72799"
-target_rva = "0x86A870"
+target_rva = "0x86B3B0"
 fencepost = "0x8BDDEC1B"
 argc = 1
 
 [IClientUser]
 interface_id = 1
-vtable_rva = "0x1352DC0"
+vtable_rva = "0x1352F58"
 
 [IClientUser.GetAppOwnershipTicketExtendedData]
 method_index = 106
 funcHash = "0xC7E71244"
-target_rva = "0x77E860"
+target_rva = "0x77F1F0"
 fencepost = "0xC844D740"
 argc = 2
 
 [IClientUser.GetEncryptedAppTicket]
 method_index = 122
 funcHash = "0xE0468CB5"
-target_rva = "0x7913F0"
+target_rva = "0x791D80"
 fencepost = "0xE0B84102"
 argc = 1
 
 [IClientUser.GetSteamID]
 method_index = 10
 funcHash = "0xD6FC3200"
-target_rva = "0x7B6150"
+target_rva = "0x7B6AE0"
 fencepost = "0xD7058CA5"
 argc = 0
 
 [IClientUser.RequestEncryptedAppTicket]
 method_index = 121
 funcHash = "0x25D6BB1C"
-target_rva = "0x881FC0"
+target_rva = "0x882B00"
 fencepost = "0x2646F563"
 argc = 2
 
 [IClientUser.RequiresLegacyCDKey]
 method_index = 87
 funcHash = "0x00000000"
-target_rva = "0x8857D0"
+target_rva = "0x886310"
 fencepost = "0x00000000"
 argc = 1
 
 [IClientUtils]
 interface_id = 4
-vtable_rva = "0x1358848"
+vtable_rva = "0x13589E0"
 
 [IClientUtils.GetAPICallResult]
 method_index = 24
 funcHash = "0x2D3D3979"
-target_rva = "0x779400"
+target_rva = "0x779D90"
 fencepost = "0x2EDFDD1A"
 argc = 3
 
 [IClientUtils.GetAppID]
 method_index = 19
 funcHash = "0x09607EC2"
-target_rva = "0x77D5C0"
+target_rva = "0x77DF50"
 fencepost = "0x0AFEF352"
 argc = 0
